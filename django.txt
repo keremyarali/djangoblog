@@ -1,0 +1,7 @@
+django
+Terminalden 
+django-admin startproject mysite
+cd mysite
+python manage.py runserver
+
+tarayıcıdan -->localhost:8080
